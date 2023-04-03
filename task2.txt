@@ -1,0 +1,22 @@
+cat /etc/os-release
+ps
+ps -e
+ps -ef
+ps aux
+top
+htop
+pidof <process_name>
+Commands to get the list of services
+systemctl list-unit-files --type=service
+service --status-all
+initctl list
+rc-status --all
+sv status /
+command can be used to show the amount of free and used disk space on the file system
+df -h
+du -sh /root
+Commands to find out the location of the vi binary
+which vi
+whereis vi
+type vi
+find / -name vi 2>/dev/null

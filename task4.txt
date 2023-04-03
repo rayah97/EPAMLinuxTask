@@ -1,0 +1,4 @@
+Mon Apr  3 09:37:48 AM GMT 2023 /home/vagrant/linux_practice
+Mon Apr  3 09:39:54 AM GMT 2023 /home/vagrant/linux_practice
+Directories: 8 Files: 34
+Directories: 11 Files: 2

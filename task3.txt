@@ -1,0 +1,7 @@
+sudo useradd -m john_smith
+ sudo passwd john_smith
+sudo groupadd sudo
+sudo usermod -aG sudo john_smith
+/usr/share/nginx/html/index.html
+
+PHP Version 8.0.27</h1>
